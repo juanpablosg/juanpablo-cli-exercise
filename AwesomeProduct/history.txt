@@ -453,3 +453,492 @@
   522  man echo
   523  echo "Mission Completed"
   524  cd /Users/juan.sanchez/GitHub_Repositories/juanpablo-cli-exercise/AwesomeProduct
+   70  mkdir lola
+   71  ls
+   72  ls -al
+   73  clear
+   74  pwd
+   75  ls
+   76  cd Creative Cloud Files
+   77  cd ~
+   78  ped
+   79  pwd
+   80  cd /Creative
+   81  cd /creative cloud files
+   82  ls
+   83  cd movies
+   84  pwed
+   85  pwd
+   86  cd ~
+   87  cd -h
+   88  man cd
+   89  man cp
+   90  man mv
+   91  mkdir JP_Personal
+   92  cd JP_Personal
+   93  pwd
+   94  clear
+   95  cd ~
+   96  rm JP_Personal
+   97  rm -R JP_Personal
+   98  pw
+   99  pwd
+  100  ls
+  101  mkdir lola
+  102  ls
+  103  rm -R lola
+  104  ls
+  105  clear
+  106  mkdir lola
+  107  mv lola 
+  108  man mv
+  109  mv lola movies
+  110  pwd
+  111  ls
+  112  cd movies
+  113  ls
+  114  mv lola ~
+  115  cd ~
+  116  ls
+  117  cd movies
+  118  ls
+  119  rm -R lola
+  120  cd ~
+  121  rm -R lola
+  122  ls
+  123  clear
+  124  .
+  125  cd .
+  126  pwd
+  127  ls
+  128  cd documents
+  129  cd .
+  130  ..
+  131  cd ..
+  132  ls
+  133  cd movies
+  134  cd movies
+  135  cd TV
+  136  cd ..
+  137  cd TV
+  138  cd ~
+  139  mkdir lola
+  140  cp lola movies
+  141  man cp
+  142  man .
+  143  man cd .
+  144  cd .
+  145  cd ~
+  146  cd movies
+  147  cd .
+  148  ls
+  149  cd ~
+  150  ls
+  151  cd creative
+  152  clear
+  153  cd documents
+  154  mkdir SolToolK Docs
+  155  rm -R Docs
+  156  cd SolToolK
+  157  mkdir Repo
+  158  cd Repo
+  159  $ ssh-keygen -t rsa -b 4096 -C "juan.sanchez@wizeline.com"
+  160  ssh-keygen -t rsa -b 4096 -C "juan.sanchez@wizeline.com"
+  161  eval "$(ssh-agent -s)"
+  162  open ~/.ssh/config
+  163  touch ~/.ssh/config
+  164  open ~/.ssh/config
+  165  ssh-add -K ~/.ssh/id_rsa
+  166  pbcopy < ~/.ssh/id_rsa.pub
+  167  clear
+  168  cd Documents
+  169  cd SolToolK
+  170  ls
+  171  cd Repo
+  172  git@github.com:wizeline/solutions-toolkit-services.git
+  173  git clone git@github.com:wizeline/solutions-toolkit-services.git
+  174  git clone git@github.com:wizeline/solutions-toolkit-services.git
+  175  git status
+  176  git add source/doc_05_Onboarding.rst
+  177  git commit -m "New File for Onboarding Guide"
+  178  git push
+  179  git status
+  180  pip install sphinx sphinx-autobuild
+  181  install sphinx sphinx-autobuild
+  182  pip install doc8
+  183  pip install sphinx sphinx-autobuild
+  184  git status
+  185  git add .
+  186  git commit -m "New file Onboarding Guide"
+  187  git push
+  188  git checkout documentation
+  189  git checkout development
+  190  git checkout documentation
+  191  git fetch
+  192  git add .
+  193  git commit -m "New file Onboarding Guide"
+  194  git push
+  195  git push --set-upstream origin documentation
+  196  git add .
+  197  git commit 
+  198  git status
+  199  git add .
+  200  git commit
+  201  git checkout master
+  202  git fetch
+  203  git pull
+  204  git checkout documentation
+  205  git pull
+  206  git pull
+  207  git checkout -b documentation
+  208  git pull
+  209  git fetch
+  210  git status
+  211  git clone git@github.com:wizeline/solutions-toolkit-services.git
+  212  git status
+  213  git add .
+  214  git commit -m "Main Titles changed"
+  215  git push
+  216  git pull
+  217  git checkout documentation
+  218  git status
+  219  git add .
+  220  git commit -m "Main titles update"
+  221  git push
+  222  brew install sphinx-doc
+  223  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  224  brew install sphinx-doc
+  225  python --version
+  226  pip --version
+  227  invoke generate.installer
+  228  import 
+  229  import os.path
+  230  python get-pip.py
+  231  get-pip.py
+  232  python --version
+  233  /Applications/Python\ 3.8/Install\ Certificates.command ; exit;
+  234  /Applications/Python\ 3.8/Update\ Shell\ Profile.command ; exit;
+  235  python --version
+  236  pip --version
+  237  pip --version
+  238  python --version
+  239  python3 --version
+  240  pip3 --version
+  241  python3 get-pip.py
+  242  python3 get-pip3.py
+  243  pip3 install sphinx sphinx-autobuild
+  244  pip3 install --upgrade pip3
+  245  pip3 install --upgrade pip
+  246  pip3 install rstcheck
+  247  pip install sphinx sphinx-autobuild
+  248  conda install sphinx
+  249  sudo port install py38-sphinx
+  250  sudo port install py38-sphinx
+  251  brew install sphinx-doc
+  252  python3 import sphinx
+  253  pip3 install -U sphinx
+  254  clear
+  255  pip install docutils
+  256  pip3 install docutils
+  257  brew install python3
+  258  git status
+  259  git status
+  260  git add .
+  261  git commit
+  262  git fetch
+  263  git status
+  264  git commit -m "Merging changes to the branch"
+  265  git push
+  266  git status
+  267  git status
+  268  git add .
+  269  git commit -m "Overview"
+  270  git push
+  271  git pull
+  272  git add .
+  273  git commit -m "File name Change"
+  274  git push
+  275  make html
+  276  git status
+  277  pwd
+  278  git add .
+  279  git commit -m "Added new information in different sections"
+  280  git push
+  281  git add .
+  282  git commit -m "Onboarding Guide updates"
+  283  git push
+  284  git status
+  285  git status
+  286  git add doc_05_OnboardingGuide.rst
+  287  git commit -m "Onboarding updates"
+  288  git push
+  289  git status
+  290  git pull
+  291  pwd
+  292  git add .
+  293  git commit -m "Onboarding updates"
+  294  git push
+  295  git pull
+  296  cd ~
+  297  shell
+  298  git clone git@github.com:wizeline/tw-sg.git
+  299  pwd
+  300  git status
+  301  code --install-extension AlanWalk.markdown-toc\ncode --install-extension bierner.markdown-emoji\ncode --install-extension bierner.markdown-preview-github-styles\ncode --install-extension chintans98.markdown-jira\ncode --install-extension darkriszty.markdown-table-prettify\ncode --install-extension DavidAnson.vscode-markdownlint\ncode --install-extension DotJoshJohnson.xml\ncode --install-extension goessner.mdmath\ncode --install-extension joaompinto.asciidoctor-vscode\ncode --install-extension jumpinjackie.vscode-map-preview\ncode --install-extension kurre.turndown-vscode\ncode --install-extension lextudio.restructuredtext\ncode --install-extension mohsen1.prettify-json\ncode --install-extension ms-azuretools.vscode-docker\ncode --install-extension ms-python.anaconda-extension-pack\ncode --install-extension ms-python.python\ncode --install-extension ms-vsliveshare.vsliveshare\ncode --install-extension redhat.vscode-xml\ncode --install-extension redhat.vscode-yaml\ncode --install-extension shd101wyy.markdown-preview-enhanced\ncode --install-extension stamminger.vscode-markdown-preview-include\ncode --install-extension streetsidesoftware.code-spell-checker\ncode --install-extension tht13.html-preview-vscode\ncode --install-extension vthiery.prettify-selected-json\ncode --install-extension yzane.markdown-pdf\ncode --install-extension yzhang.markdown-all-in-one
+  302  git status
+  303  git checkout juan
+  304  git status
+  305  clear
+  306  git status
+  307  git add source/includes/_juan.md
+  308  git commit -m "Juan Pablo's sample file"
+  309  git push
+  310  Calle:\n#Ext\n#Int\nReferencias\nColonia\nCódigo Postal\nCiudad \nTeléfono de contact
+  311  code --install-extension AlanWalk.markdown-toc\ncode --install-extension bierner.markdown-emoji\ncode --install-extension bierner.markdown-preview-github-styles\ncode --install-extension chintans98.markdown-jira\ncode --install-extension darkriszty.markdown-table-prettify\ncode --install-extension DavidAnson.vscode-markdownlint\ncode --install-extension DotJoshJohnson.xml\ncode --install-extension goessner.mdmath\ncode --install-extension joaompinto.asciidoctor-vscode\ncode --install-extension jumpinjackie.vscode-map-preview\ncode --install-extension kurre.turndown-vscode\ncode --install-extension lextudio.restructuredtext\ncode --install-extension mohsen1.prettify-json\ncode --install-extension ms-azuretools.vscode-docker\ncode --install-extension ms-python.anaconda-extension-pack\ncode --install-extension ms-python.python\ncode --install-extension ms-vsliveshare.vsliveshare\ncode --install-extension redhat.vscode-xml\ncode --install-extension redhat.vscode-yaml\ncode --install-extension shd101wyy.markdown-preview-enhanced\ncode --install-extension stamminger.vscode-markdown-preview-include\ncode --install-extension streetsidesoftware.code-spell-checker\ncode --install-extension tht13.html-preview-vscode\ncode --install-extension vthiery.prettify-selected-json\ncode --install-extension yzane.markdown-pdf\ncode --install-extension yzhang.markdown-all-in-one
+  312  git status
+  313  git status
+  314  git add .
+  315  git commit -m "Documentation, Credentials, and Tools updates + renamed Doc 04"
+  316  git push
+  317  git pull
+  318  git push
+  319  git pull
+  320  git commit
+  321  git status
+  322  git status
+  323  git commit -m "Conclude merge"
+  324  git add . 
+  325  git commit -m "Documentation, Credentials, and Tools information updates + renamed Doc 04"
+  326  git push
+  327  git status
+  328  git commit -m "Git pull update"
+  329  git add .
+  330  git commit -m "Format corrections and Index.rst update"
+  331  git push
+  332  git status
+  333  git add .
+  334  git commit -m "Titles Reviewd 2nd attempt"
+  335  git push
+  336  git pull
+  337  git commit -m "Git pull update"
+  338  git status
+  339  git add .
+  340  git commit -m "Titles Reviewed 2nd attempt"
+  341  git push
+  342  git add .
+  343  git commit -m "Architecture section updates"
+  344  git push
+  345  git add .
+  346  git commit -m "Format corrections and Index.rst update"
+  347  git push
+  348  git pull
+  349  git add .
+  350  git commit -m "Overview and Architecture updates"
+  351  git push
+  352  cd Desktop
+  353  ls
+  354  move ContextDiagram_2.png /Users/juan.sanchez/Documents/SolToolK/Repo/solutions-toolkit-services/docs/source/diagrams
+  355  mv ContextDiagram_2.png /Users/juan.sanchez/Documents/SolToolK/Repo/solutions-toolkit-services/docs/source/diagrams
+  356  cd /Users/juan.sanchez/Documents/SolToolK/Repo/solutions-toolkit-services/docs/source/diagrams
+  357  ls
+  358  git commit -m "Git pull updates"
+  359  git push
+  360  git status
+  361  git add .
+  362  git commit -m "Implicit hyperlinks updates"
+  363  git push
+  364  git add .
+  365  git commit -m "Architecture updates"
+  366  git pull
+  367  git add .
+  368  git add .
+  369  git commit -m "Context Diagrams updates"
+  370  git push
+  371  git status
+  372  git add . 
+  373  git commit -m "Communications section updates"
+  374  git push
+  375  pwd
+  376  ls
+  377   cd GitHub_Repositories
+  378  git clone git@github.com:juanpablosg/juanpablo-cli-exercise.git
+  379  ls
+  380  touch man
+  381  ls
+  382  rm -r man
+  383  clear
+  384  man touch
+  385  man touch
+  386  pwd
+  387  ls
+  388  cd juanpablo-cli-exercise
+  389  mkdir AwesomeProduct
+  390  cd AwesomeProduct
+  391  ..
+  392  cd ..
+  393  rm -r Awesome Product
+  394  rm -r AwesomeProduct
+  395  mkdir -p AwesomeProduct/{API,Assets,Backend,Frontend,RESTfulAPI}
+  396  cd AwesomeProdcut
+  397  cd AwesomeProduct
+  398  ls
+  399  cd Backend
+  400  mkdir -p Databases/{NoSQL,Relational}
+  401  mkdir -p Scripts/{NodeJS}
+  402  ls
+  403  cd Scripts
+  404  cd NodeJS
+  405  ls
+  406  rm -r {NodeJS}
+  407  mkdir NodeJS
+  408  cd NodeJS
+  409  touch app.js
+  410  ls
+  411  cd ..
+  412  cd ..
+  413  cd ..
+  414  cd Backend
+  415  ls
+  416  mkdir Server
+  417  cd Server
+  418  mkdir Docker
+  419  ls
+  420  cd ..
+  421  cd ..
+  422  cd Frontend
+  423  mkdir CSS
+  424  mkdir HTML
+  425  mkdir JavaScript
+  426  cd HTML
+  427  touch footer.html
+  428  touch header.html
+  429  touch index.html
+  430  cd ..
+  431  cd CSS
+  432  touch style.css
+  433  cd ..
+  434  cd JavaScript
+  435  touch script.js
+  436  cd ..
+  437  cd ..
+  438  cd RESTfulAPI
+  439  touch api.js
+  440  clear
+  441  install zip
+  442  man zip
+  443  man zip
+  444  man zip
+  445  pwd
+  446  ls
+  447  cd GitHub_Repositories
+  448  zip -b AwesomeProduct/Frontend/HTML{footer.html,header.html,index.html}
+  449  ls
+  450  cd juanpablo-cli-exercise
+  451  zip -b AwesomeProduct/Frontend/HTML{footer.html,header.html,index.html}
+  452  ls
+  453  cd AwesomeProduct
+  454  ls
+  455  cd Frontend
+  456  ls
+  457  zip -b HTML{footer.html,header.html,index.html}
+  458  man zip
+  459  pwd
+  460  ls
+  461  cd HTML
+  462  ls
+  463  zip files.zip footer.html header.html index.html
+  464  ls
+  465  mv files.zip AwesomeProduct
+  466  ls
+  467  man mv
+  468  mv AwesomeProduct file.zip
+  469  ls
+  470  mv file.zip .zip
+  471  ls
+  472  ls
+  473  z
+  474  mv .zip files.zip
+  475  ls
+  476  man mv
+  477  ls
+  478  cd files.zip
+  479  unzip files.zip
+  480  ls
+  481  unzip files.zip
+  482  ls
+  483  pwd
+  484  cd ..
+  485  cd ..
+  486  cd ..
+  487  ls
+  488  cd AwesomeProduct
+  489  ls
+  490  pwd
+  491  cd /Users/juan.sanchez/GitHub_Repositories/juanpablo-cli-exercise/AwesomeProduct/Frontend/HTML
+  492  mv files.zip /Users/juan.sanchez/GitHub_Repositories/juanpablo-cli-exercise/AwesomeProduct
+  493  ls
+  494  cd /Users/juan.sanchez/GitHub_Repositories/juanpablo-cli-exercise/AwesomeProduct
+  495  ls
+  496  cd /Users/juan.sanchez/GitHub_Repositories/juanpablo-cli-exercise/AwesomeProduct/Frontend/HTML
+  497  rm header.html
+  498  rm footer.html
+  499  cd /Users/juan.sanchez/GitHub_Repositories/juanpablo-cli-exercise/AwesomeProduct
+  500  rmdir Assets
+  501  ls
+  502  ls
+  503  cd /Users/juan.sanchez/GitHub_Repositories/juanpablo-cli-exercise/AwesomeProduct/Frontend/HTML
+  504  cd ..
+  505  cd JavaScript
+  506  ls
+  507  pwd 
+  508  cd /Users/juan.sanchez/GitHub_Repositories/juanpablo-cli-exercise/AwesomeProduct
+  509  cd Backend
+  510  cd Scripts
+  511  cd NodeJS
+  512  ls
+  513  pwd
+  514  cd /Users/juan.sanchez/GitHub_Repositories/juanpablo-cli-exercise/AwesomeProduct/Frontend/JavaScript
+  515  cp script.js /Users/juan.sanchez/GitHub_Repositories/juanpablo-cli-exercise/AwesomeProduct/Backend/Scripts/NodeJS
+  516  ls
+  517  cd /Users/juan.sanchez/GitHub_Repositories/juanpablo-cli-exercise/AwesomeProduct/Backend/Scripts/NodeJS
+  518  ls
+  519  echo
+  520  pwd
+  521  man eccho
+  522  man echo
+  523  echo "Mission Completed"
+  524  cd /Users/juan.sanchez/GitHub_Repositories/juanpablo-cli-exercise/AwesomeProduct
+  525  history 70 >> history.txt
+  526  ls
+  527  git add .
+  528  git add . 
+  529  git commit -m "Note preview"
+  530  git push
+  531  git add .
+  532  git commit -m "Frontend and Backend requirements"
+  533  git push
+  534  cd ..
+  535  git add .
+  536  git commit -m "Command Line Exercise for Technical Writers"
+  537  git push
+  538  git add .
+  539  git commit -m "Command Line Exercise for Technical Writers Completed"
+  540  git push
+  541  pwd
+  542  ls
+  543  cd /Users/juan.sanchez/GitHub_Repositories/juanpablo-cli-exercise/AwesomeProduct
+  544  ls
+  545  ls
+  546  cd GitHub_Repositories
+  547  ls
+  548  cd juanpablo-cli-exercise
+  549  ls
+  550  cd AwesomeProduct
+  551  ls
+  552  cd Backend
+  553  ls
+  554  history 70 >> history.txt
+  555  ls
+  556  rm history.txt
+  557  ls
+  558  cd AwesomeProduct
